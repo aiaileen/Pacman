@@ -3,10 +3,7 @@
 # Youtube presentation
 Presentation Video
 
-![Video Link](https://www.youtube.com/embed/dpgpLCZLNX8)
-<figure class="video_container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dpgpLCZLNX8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</figure>
+
 
 
 
@@ -184,6 +181,6 @@ The reason why this approach was not chosen over n-step is because
 
 ## Team Members
 
-* Ailin Zhang - ailinz1@student.unimelb.edu.au - 874810
-* Sukriti Srivastava - sukritis@student.unimelb.edu.au - 932352
-* Tarun Dev Thalakunte Rajappa - tthalakunte@student.unimelb.edu.au - 934175
+* Ailin Zhang 
+* Sukriti Srivastava 
+* Tarun Dev Thalakunte Rajappa 
