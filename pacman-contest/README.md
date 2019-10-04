@@ -1,11 +1,5 @@
 # UoM COMP90054 Contest Project
 
-# Youtube presentation
-Presentation Video
-
-
-
-
 
 ### Design Decision Made
    * ##### Attribute Extraction 
